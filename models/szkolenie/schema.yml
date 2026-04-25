@@ -1,0 +1,58 @@
+version: 2
+
+models:
+  - name: i_budzet # Nazwa Twojego pliku .sql
+    description: "Tabela budżetowa odświeżana inkrementalnie. Zawiera dane o kosztach od 2025 roku."
+    columns:
+      - name: data
+        description: "Data zaksięgowania kosztu."
+      - name: wartosc
+        description: "Kwota netto w PLN."
+      - name: Oznaczenie kosztu
+        description: "nazwa kosztu"
+  - name: v_kolory_ilość
+    description: "{{ doc('v_kolory_ilosc') }}" # Nazwa musi pasować do tej w pliku .md
+    #automat z terminala
+  - name: te_all_data
+    description: "dane zebrane ze wszystkich 6 tabel..."
+    columns:
+      - name: Marka pojazdu
+        data_type: string
+        description: "marki samochodów"
+
+      - name: Cena
+        data_type: int64
+        description: "cena netto"
+
+      - name: kolor
+        data_type: string
+        description: ""
+
+      - name: rocznik
+        data_type: int64
+        description: "rok produkcji"
+
+      - name: Typ nadwozia
+        data_type: string
+        description: ""
+
+      - name: lokalizacja
+        data_type: string
+        description: "województwa..."
+
+      - name: Skrzynia biegow
+        data_type: string
+        description: ""
+  - name: v_zmienne_projektowe
+    description: "{{ doc('v_zmienne_projektowe') }}" # wygenerowane przez AI
+  - name: v_pojazdy_kolory_test
+    description: "pojazdy z kolorami do testów"
+    columns:
+      - name: Marka pojazdu
+        quote: true
+        tests:
+          - unique
+          - not_null
+      - name: kolor
+        tests:
+          - not_null

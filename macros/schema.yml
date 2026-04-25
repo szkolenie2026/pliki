@@ -1,0 +1,12 @@
+version: 2
+
+macros:
+  - name: przelicz_na_EURO
+    description: "Makro przelicza kwotę w PLN na EURO na podstawie podanego kursu waluty."
+    arguments:
+      - name: wartosc
+        type: numeric
+        description: "Wartość bazowa (kolumna lub liczba), która ma zostać przeliczona."
+      - name: kurs
+        type: numeric
+        description: "Liczba dziesiętna (np. 4.59). Domyślnie ustawiony na 4.39."
