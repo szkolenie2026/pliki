@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: baza_szkoleniowa    
+    schema: szkolenie         # To musi być DOKŁADNA nazwa datasetu w BigQuery
+    tables:
+      - name: pojazdy         # Fizyczna nazwa tabeli w BigQuery
+      - name: kolory          # Fizyczna nazwa tabeli w BigQuery

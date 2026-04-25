@@ -32,5 +32,9 @@ clean-targets:         # directories to be removed by `dbt clean`
 models:
   szkolenie_projekt:
     # Config indicated by + and applies to all files under models/example/
-    example:
-      +materialized: view
+ #   example:
+  #    +materialized: view
+vars:
+  lokalizacja: 'Mazowieckie'           # Wartość domyślna dla całego projektu
+  min_rocznik: 2015                    # Kolejna zmienna
+  czy_testujemy: true                  # Możesz używać też typów prawda/fałsz
