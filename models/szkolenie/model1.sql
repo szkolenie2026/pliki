@@ -2,5 +2,5 @@
 
 SELECT 
     1 as id,
-    'Szkolenie dbt' as nazwa,
+    'Szkolenie dbaat' as nazwa,
     CURRENT_TIMESTAMP() as data_utworzenia
