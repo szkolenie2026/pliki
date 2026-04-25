@@ -1,3 +1,4 @@
 Rafal pro.
 Czy SQL w BQ jest inny niż w SQL Server?
 nie wiem...
+email: beje@beje.kylos.pl
