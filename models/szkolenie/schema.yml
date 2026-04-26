@@ -56,3 +56,12 @@ models:
       - name: kolor
         tests:
           - not_null
+  - name: v_pojazdy_kolory_test2
+    description: "pojazdy z kolorami do testów"
+    columns:
+      - name: ID_Koloru
+        description: "Klucz obcy do tabeli kolorów."
+        tests:
+           - relationships:
+               to: ref('kolory') # do jakiego modelu się odnosimy
+               field: id         # do jakiej kolumny w tym modelu

@@ -1,0 +1,800 @@
+﻿ID,Marka pojazdu,Cena,Rocznik,Rodzaj paliwa,ID_Typu_nadwozia,Liczba drzwi,ID_Koloru,ID_Lokalizacji,Aktualny przebieg,Historia pojazdu,ID_Skrzyni_biegów
+1,Hyundai,63946,2010,Benzyna,1,2/3,,1,99233,Garażowany,1
+2,Chrysler,65757,2010,Olej napedowy,2,4/5,,2,145149,Bezwypadkowy,1
+3,Honda,161098,2006,Olej napedowy,3,4/5,3,3,61939,Serwisowany w ASO,1
+4,Dacia,53619,2000,Olej napedowy,2,4/5,4,4,240838,Pierwszy własciciel,2
+5,Honda,99894,2015,LPG,1,4/5,5,5,81274,Serwisowany w ASO,2
+6,Volvo,55854,1997,Olej napedowy,2,2/3,6,2,169460,Pierwszy własciciel,2
+7,Toyota,79498,2007,Benzyna,3,2/3,6,6,234374,Garażowany,2
+8,Mazda,93337,2013,LPG,1,4/5,7,1,259394,Pierwszy własciciel,1
+9,Hyundai,143743,2008,LPG,3,2/3,3,7,221587,Pierwszy własciciel,2
+10,Citroen,54350,1996,LPG,2,2/3,8,8,164755,Bezwypadkowy,1
+11,Mercedes,155280,1997,LPG,3,2/3,9,9,139758,Serwisowany w ASO,1
+12,Peugeot,164718,2007,Olej napedowy,3,4/5,10,2,250321,Serwisowany w ASO,2
+13,Daewoo,160656,2003,LPG,2,2/3,11,10,251215,Bezwypadkowy,2
+14,Toyota,112669,1996,Olej napedowy,3,2/3,12,5,180741,Serwisowany w ASO,1
+15,BMW,157090,2011,Benzyna,2,2/3,22,9,143034,Pierwszy własciciel,1
+16,Renault,113695,2008,Olej napedowy,1,4/5,23,9,184624,Bezwypadkowy,1
+17,Volvo,196540,2012,LPG,2,2/3,9,9,53592,Garażowany,2
+18,Kia,105029,2009,Benzyna,2,4/5,7,3,145815,Bezwypadkowy,2
+19,Hyundai,64451,2003,Benzyna,3,2/3,3,3,87137,Serwisowany w ASO,1
+20,Alfa Romeo,116645,1996,Benzyna,2,2/3,13,11,266200,Pierwszy własciciel,1
+21,Volvo,142428,1997,Benzyna,2,2/3,3,9,210631,Garażowany,1
+22,Fiat,72197,2005,Olej napedowy,1,2/3,7,7,114969,Pierwszy własciciel,1
+23,Seat,136053,2013,Olej napedowy,1,2/3,33,12,214279,Bezwypadkowy,2
+24,BMW,53433,2007,Olej napedowy,2,2/3,44,7,213958,Bezwypadkowy,1
+25,Toyota,96307,1994,LPG,3,2/3,2,7,117163,Serwisowany w ASO,2
+26,Opel,86658,1997,Benzyna,3,4/5,5,13,112953,Pierwszy własciciel,1
+27,Ford,105296,2011,LPG,1,4/5,1,11,70236,Bezwypadkowy,1
+28,Fiat,104621,2000,Olej napedowy,2,4/5,4,6,119660,Serwisowany w ASO,2
+29,Chevrolet,110921,2012,Benzyna,3,2/3,7,13,254747,Pierwszy własciciel,1
+30,BMW,130619,2012,Olej napedowy,3,4/5,5,9,60237,Serwisowany w ASO,2
+31,Mercedes,96475,2009,Benzyna,1,4/5,6,2,61116,Serwisowany w ASO,2
+32,Skoda,135084,2011,LPG,2,4/5,2,1,133033,Serwisowany w ASO,1
+33,Mercedes,127235,2010,LPG,1,4/5,14,5,265097,Bezwypadkowy,2
+34,Chrysler,145023,2007,Benzyna,2,2/3,15,14,267191,Bezwypadkowy,1
+35,Audi,56070,2007,Olej napedowy,3,4/5,13,2,231160,Bezwypadkowy,1
+36,Hyundai,133762,2011,Olej napedowy,2,2/3,5,8,253980,Serwisowany w ASO,1
+37,Mazda,146416,1997,LPG,2,2/3,15,13,112297,Bezwypadkowy,1
+38,Chevrolet,131028,2012,Olej napedowy,3,4/5,14,15,240576,Serwisowany w ASO,2
+39,Honda,138382,2012,Benzyna,1,4/5,16,2,137466,Pierwszy własciciel,2
+40,Dacia,79633,2010,Benzyna,2,2/3,4,6,274389,Serwisowany w ASO,1
+41,Volvo,150504,2015,LPG,2,4/5,12,3,88155,Garażowany,1
+42,Citroen,67845,2000,Benzyna,1,2/3,11,13,71132,Serwisowany w ASO,2
+43,Alfa Romeo,86805,2011,LPG,2,2/3,5,15,75830,Bezwypadkowy,2
+44,Opel,96221,2012,LPG,2,2/3,7,7,279258,Serwisowany w ASO,1
+45,Skoda,83934,2002,Olej napedowy,3,4/5,13,7,188126,Serwisowany w ASO,1
+46,Dacia,79618,2012,Olej napedowy,2,2/3,4,1,131597,Serwisowany w ASO,1
+47,Fiat,100257,2010,LPG,3,2/3,4,11,263609,Serwisowany w ASO,1
+48,Fiat,87276,2005,Benzyna,3,4/5,14,1,243092,Garażowany,1
+49,Honda,74030,1997,Benzyna,2,4/5,11,10,154881,Serwisowany w ASO,2
+50,Volvo,163632,2013,LPG,3,4/5,17,3,278983,Serwisowany w ASO,2
+51,Opel,168148,2005,Benzyna,2,2/3,8,6,181609,Garażowany,2
+52,Kia,102855,1996,Benzyna,2,2/3,4,3,285991,Garażowany,1
+53,Aston Martin,165749,2009,Olej napedowy,2,4/5,2,6,264223,Serwisowany w ASO,1
+54,Peugeot,160725,1993,Olej napedowy,2,2/3,6,5,107716,Pierwszy własciciel,1
+55,BMW,87173,2000,LPG,3,4/5,2,8,278531,Serwisowany w ASO,2
+56,Kia,80479,2010,Olej napedowy,1,4/5,4,7,67171,Serwisowany w ASO,2
+57,Peugeot,92967,2007,Benzyna,3,2/3,5,9,200839,Pierwszy własciciel,1
+58,Kia,142682,2002,LPG,1,4/5,5,14,96565,Garażowany,2
+59,Chrysler,141125,1994,Benzyna,2,4/5,1,3,232065,Garażowany,1
+60,Fiat,180566,2011,Olej napedowy,1,2/3,5,3,78848,Bezwypadkowy,2
+61,Citroen,139272,2013,Benzyna,1,2/3,3,6,69812,Pierwszy własciciel,2
+62,Aston Martin,156014,2014,Benzyna,1,4/5,7,14,166215,Pierwszy własciciel,2
+63,Opel,147181,2007,Benzyna,3,2/3,1,11,91260,Bezwypadkowy,2
+64,Toyota,133025,2010,LPG,3,4/5,13,6,82688,Garażowany,2
+65,Fiat,149303,2007,Olej napedowy,1,4/5,17,16,285510,Pierwszy własciciel,2
+66,Audi,118382,1993,Benzyna,1,4/5,12,11,138217,Bezwypadkowy,2
+67,Citroen,103464,1990,Benzyna,1,2/3,11,9,252135,Pierwszy własciciel,2
+68,Ford,80446,2010,LPG,2,4/5,9,15,191282,Pierwszy własciciel,2
+69,Mazda,177455,2002,Benzyna,1,2/3,9,3,261314,Pierwszy własciciel,2
+70,Seat,108426,2006,Benzyna,2,2/3,5,8,137788,Serwisowany w ASO,1
+71,BMW,66914,2000,LPG,1,4/5,3,7,97279,Serwisowany w ASO,1
+72,Kia,123481,2007,LPG,1,2/3,9,16,134824,Bezwypadkowy,1
+73,Mazda,68103,2014,Benzyna,3,4/5,15,8,138449,Pierwszy własciciel,1
+74,Ford,142446,2014,Benzyna,2,4/5,12,12,257673,Serwisowany w ASO,2
+75,Mazda,134838,2000,Benzyna,2,4/5,11,1,144526,Serwisowany w ASO,2
+76,Dacia,53302,2000,LPG,1,4/5,9,16,241903,Pierwszy własciciel,2
+77,Audi,53914,1993,Benzyna,1,2/3,2,15,199204,Bezwypadkowy,1
+78,Volvo,87785,2000,Benzyna,2,2/3,6,6,172640,Pierwszy własciciel,2
+79,Citroen,94291,1997,Benzyna,3,2/3,11,6,286970,Serwisowany w ASO,2
+80,Alfa Romeo,160399,1997,Olej napedowy,3,2/3,5,4,208584,Bezwypadkowy,1
+81,Chrysler,162058,2012,LPG,3,2/3,11,16,240557,Pierwszy własciciel,1
+82,Opel,124714,2003,Olej napedowy,2,2/3,9,17,179072,Garażowany,2
+83,Skoda,174394,2014,LPG,2,2/3,6,6,271479,Bezwypadkowy,2
+84,Alfa Romeo,125739,2011,Benzyna,3,2/3,11,5,56766,Serwisowany w ASO,1
+85,Mazda,91771,2009,Benzyna,1,2/3,16,13,258385,Garażowany,2
+86,Hyundai,198682,2002,LPG,1,2/3,6,16,243551,Garażowany,2
+87,Opel,88248,2013,Benzyna,1,2/3,13,13,261220,Pierwszy własciciel,1
+88,Chevrolet,147707,2011,Olej napedowy,2,4/5,9,11,235610,Serwisowany w ASO,1
+89,Hyundai,101507,2006,Benzyna,2,2/3,5,11,206935,Serwisowany w ASO,1
+90,Chevrolet,68899,2013,Olej napedowy,2,4/5,8,16,211928,Garażowany,1
+91,Toyota,95049,1994,Olej napedowy,1,2/3,18,15,214374,Pierwszy własciciel,2
+92,Skoda,64361,2003,LPG,3,4/5,4,12,70692,Serwisowany w ASO,1
+93,Chrysler,54676,2009,Benzyna,3,2/3,16,6,291633,Serwisowany w ASO,2
+94,Dacia,150182,2000,Benzyna,3,4/5,10,10,278451,Pierwszy własciciel,2
+95,Skoda,112405,1997,LPG,3,4/5,15,15,174725,Pierwszy własciciel,1
+96,Audi,87763,1996,Olej napedowy,3,2/3,18,7,104625,Garażowany,2
+97,Kia,197224,2004,Olej napedowy,3,2/3,3,11,68612,Garażowany,2
+98,BMW,92961,2009,Olej napedowy,3,2/3,1,14,153130,Bezwypadkowy,1
+99,BMW,128224,2012,Olej napedowy,1,2/3,16,13,103848,Pierwszy własciciel,2
+100,Renault,143457,1990,Olej napedowy,1,2/3,10,16,257805,Garażowany,1
+101,Renault,173170,2013,Benzyna,1,2/3,7,10,73524,Bezwypadkowy,2
+102,Hyundai,107841,2005,LPG,2,2/3,12,12,221498,Pierwszy własciciel,1
+103,Seat,89606,2010,LPG,1,2/3,7,3,212725,Bezwypadkowy,1
+104,Alfa Romeo,136981,2008,LPG,3,4/5,1,3,187147,Bezwypadkowy,1
+105,Fiat,85350,1996,Benzyna,3,2/3,3,4,112917,Serwisowany w ASO,1
+106,Audi,182969,2005,Olej napedowy,2,2/3,17,3,88799,Serwisowany w ASO,1
+107,Volvo,186847,2005,LPG,2,2/3,10,8,133822,Bezwypadkowy,2
+108,Hyundai,111025,2002,Olej napedowy,2,4/5,10,9,116747,Garażowany,2
+109,Chevrolet,94838,2004,Benzyna,3,2/3,6,8,274795,Pierwszy własciciel,2
+110,Peugeot,146077,1996,LPG,3,2/3,8,5,230053,Serwisowany w ASO,2
+111,Chrysler,54477,2009,Benzyna,3,4/5,18,7,94811,Bezwypadkowy,1
+112,Opel,197343,2011,LPG,1,4/5,3,11,189321,Bezwypadkowy,2
+113,Chevrolet,80173,2005,LPG,3,4/5,17,3,81060,Bezwypadkowy,1
+114,Mazda,196808,2015,Olej napedowy,3,4/5,16,13,223890,Bezwypadkowy,2
+115,Kia,112623,2014,LPG,2,4/5,14,13,82056,Pierwszy własciciel,1
+116,Daewoo,130129,2006,Olej napedowy,3,4/5,14,4,101714,Garażowany,1
+117,Peugeot,65493,2012,Benzyna,3,2/3,14,12,102330,Serwisowany w ASO,2
+118,Mercedes,104518,2010,Benzyna,3,4/5,2,7,238894,Serwisowany w ASO,1
+119,Volvo,195466,1997,Benzyna,3,2/3,7,16,217612,Serwisowany w ASO,1
+120,Skoda,82727,2010,Olej napedowy,3,2/3,3,12,135073,Pierwszy własciciel,2
+121,Citroen,146145,2012,Olej napedowy,2,2/3,10,12,194330,Pierwszy własciciel,1
+122,BMW,81550,2007,LPG,3,4/5,7,3,81446,Garażowany,1
+123,Citroen,52881,1997,Benzyna,2,4/5,18,7,157205,Serwisowany w ASO,2
+124,Chevrolet,96964,2006,Olej napedowy,1,4/5,2,4,81881,Pierwszy własciciel,1
+125,Fiat,93039,1990,Olej napedowy,1,4/5,13,15,270436,Serwisowany w ASO,2
+126,Honda,86957,1997,Benzyna,3,4/5,2,16,216824,Bezwypadkowy,1
+127,Toyota,63700,2006,Olej napedowy,2,4/5,8,9,74150,Pierwszy własciciel,2
+128,Daewoo,66049,1994,Benzyna,1,2/3,18,11,296577,Garażowany,1
+129,Audi,127222,2002,Benzyna,3,2/3,2,15,83660,Serwisowany w ASO,1
+130,Opel,181236,2004,LPG,2,4/5,11,5,116783,Garażowany,1
+131,Skoda,107660,2006,Olej napedowy,3,4/5,15,7,255415,Bezwypadkowy,2
+132,Seat,115027,1993,LPG,2,4/5,3,7,242036,Bezwypadkowy,2
+133,Alfa Romeo,70907,2010,Olej napedowy,3,2/3,12,8,265814,Serwisowany w ASO,2
+134,Toyota,104728,1993,Benzyna,3,2/3,18,10,184036,Garażowany,1
+135,Ford,51340,2009,LPG,3,2/3,15,10,267293,Garażowany,2
+136,Fiat,141995,2000,Benzyna,2,2/3,3,12,119562,Pierwszy własciciel,1
+137,Opel,65788,2009,LPG,2,4/5,11,3,191462,Serwisowany w ASO,2
+138,Opel,162236,2014,Olej napedowy,3,2/3,9,16,63254,Pierwszy własciciel,2
+139,BMW,107069,2009,Benzyna,2,4/5,7,1,196517,Serwisowany w ASO,1
+140,Fiat,191831,2003,Benzyna,1,4/5,1,16,50972,Bezwypadkowy,2
+141,Skoda,177615,2003,LPG,3,2/3,17,1,281431,Bezwypadkowy,1
+142,Daewoo,152995,1997,LPG,2,4/5,8,10,218276,Serwisowany w ASO,2
+143,Chrysler,188989,2008,LPG,1,4/5,17,9,137381,Garażowany,2
+144,Kia,119796,2000,Olej napedowy,3,2/3,4,18,225073,Pierwszy własciciel,2
+145,Chevrolet,88129,1996,Olej napedowy,1,2/3,14,13,85753,Serwisowany w ASO,1
+146,Chevrolet,71970,2008,LPG,2,4/5,9,9,77778,Bezwypadkowy,2
+147,Mercedes,65573,2008,LPG,1,2/3,3,9,227611,Pierwszy własciciel,1
+148,Skoda,145741,2003,Benzyna,3,4/5,9,14,132262,Bezwypadkowy,2
+149,Ford,75414,2011,Olej napedowy,2,4/5,16,10,123364,Garażowany,1
+150,Fiat,160105,2008,LPG,3,2/3,16,11,117219,Garażowany,2
+151,Dacia,91426,2011,Benzyna,2,2/3,15,2,137758,Bezwypadkowy,2
+152,Chrysler,109094,2000,LPG,2,4/5,7,2,284695,Garażowany,2
+153,Hyundai,124128,2011,Benzyna,1,2/3,13,10,151374,Serwisowany w ASO,1
+154,Citroen,59947,2009,Olej napedowy,1,2/3,6,13,194297,Garażowany,2
+155,Aston Martin,118305,2007,Olej napedowy,1,2/3,1,6,265190,Pierwszy własciciel,1
+156,Toyota,68611,2012,Benzyna,2,4/5,17,3,61804,Serwisowany w ASO,1
+157,Citroen,90204,2010,Olej napedowy,2,4/5,13,16,135580,Garażowany,2
+158,Aston Martin,143792,2014,Benzyna,1,2/3,8,8,299082,Bezwypadkowy,1
+159,Skoda,157538,2003,Olej napedowy,3,4/5,2,14,250920,Bezwypadkowy,2
+160,Aston Martin,140169,1997,LPG,3,4/5,5,4,237953,Serwisowany w ASO,1
+161,BMW,139595,2013,Benzyna,2,2/3,11,3,153671,Bezwypadkowy,1
+162,Renault,89359,2011,Benzyna,3,2/3,12,2,116873,Garażowany,1
+163,Fiat,191763,1996,Benzyna,1,4/5,6,8,124635,Serwisowany w ASO,2
+164,Peugeot,77444,2009,Olej napedowy,3,2/3,6,9,100344,Bezwypadkowy,1
+165,Chrysler,192632,2002,LPG,1,4/5,14,10,98532,Pierwszy własciciel,2
+166,Honda,115059,2008,Olej napedowy,1,4/5,15,7,143742,Pierwszy własciciel,1
+167,Renault,195926,2014,LPG,2,2/3,16,15,209517,Serwisowany w ASO,2
+168,Alfa Romeo,117220,2010,LPG,1,2/3,4,4,292099,Garażowany,1
+169,Volvo,191548,2003,LPG,3,4/5,2,6,143200,Garażowany,2
+170,Kia,95862,2006,Benzyna,2,4/5,16,15,59074,Garażowany,1
+171,Mercedes,73115,2006,Benzyna,3,4/5,2,12,53633,Garażowany,2
+172,Daewoo,126097,2002,Benzyna,3,2/3,16,14,242735,Pierwszy własciciel,1
+173,Hyundai,141950,2005,Benzyna,2,2/3,12,7,269491,Pierwszy własciciel,2
+174,Mazda,98824,2002,Olej napedowy,1,4/5,4,1,85859,Bezwypadkowy,2
+175,Peugeot,60002,2012,Benzyna,2,2/3,11,4,139104,Garażowany,1
+176,Fiat,79712,2005,Benzyna,1,4/5,4,1,296072,Pierwszy własciciel,1
+177,Skoda,193139,1997,LPG,3,4/5,2,3,229916,Garażowany,1
+178,Dacia,159162,2013,Olej napedowy,3,2/3,17,10,206421,Bezwypadkowy,1
+179,BMW,155736,2009,Benzyna,2,2/3,5,7,282990,Bezwypadkowy,2
+180,Skoda,84314,2008,LPG,1,4/5,7,10,66175,Bezwypadkowy,1
+181,Chrysler,196494,2005,Olej napedowy,1,4/5,10,12,140594,Bezwypadkowy,2
+182,Volvo,155413,1997,Olej napedowy,2,4/5,18,2,176100,Pierwszy własciciel,1
+183,Seat,98059,1997,LPG,1,4/5,8,7,218936,Garażowany,1
+184,Alfa Romeo,80777,2012,Olej napedowy,1,4/5,13,7,169741,Serwisowany w ASO,1
+185,Alfa Romeo,161331,1994,Benzyna,1,2/3,9,5,61280,Bezwypadkowy,1
+186,Renault,124403,2007,Benzyna,2,2/3,5,8,193218,Bezwypadkowy,1
+187,Skoda,104750,2008,Benzyna,2,2/3,18,5,264606,Garażowany,2
+188,Seat,169753,1994,Benzyna,2,2/3,4,1,91360,Garażowany,2
+189,Audi,153971,2015,Benzyna,1,4/5,10,1,115641,Garażowany,2
+190,Hyundai,189138,2005,Benzyna,2,2/3,10,14,213886,Serwisowany w ASO,2
+191,Mazda,188435,1996,Benzyna,2,2/3,18,3,53689,Garażowany,2
+192,Renault,99770,2013,Olej napedowy,2,4/5,5,12,123184,Pierwszy własciciel,2
+193,Kia,135776,2000,Olej napedowy,2,2/3,16,14,194826,Pierwszy własciciel,2
+194,Opel,73152,2005,LPG,3,2/3,3,6,152123,Pierwszy własciciel,1
+195,Chrysler,178448,1996,Olej napedowy,1,2/3,12,9,84463,Serwisowany w ASO,2
+196,Opel,163085,2010,Benzyna,1,2/3,11,14,277518,Pierwszy własciciel,2
+197,Fiat,197511,2006,Benzyna,2,4/5,17,8,121620,Serwisowany w ASO,2
+198,Daewoo,181175,2002,LPG,3,2/3,3,15,181266,Garażowany,2
+199,Aston Martin,184652,2002,Olej napedowy,1,2/3,1,12,133933,Pierwszy własciciel,2
+200,Skoda,117977,2015,Benzyna,2,2/3,6,14,229792,Serwisowany w ASO,2
+201,Fiat,62646,2010,Benzyna,2,2/3,10,12,239377,Bezwypadkowy,1
+202,Seat,194661,2012,LPG,2,4/5,8,7,107536,Pierwszy własciciel,2
+203,Renault,165524,1994,LPG,1,4/5,15,14,233353,Garażowany,2
+204,Hyundai,137815,2014,Benzyna,1,2/3,1,13,276535,Garażowany,2
+205,Hyundai,136814,2009,Olej napedowy,2,2/3,5,2,104520,Bezwypadkowy,2
+206,Peugeot,189603,2002,LPG,3,4/5,5,2,239317,Garażowany,2
+207,Peugeot,67321,1996,LPG,2,4/5,10,2,126971,Garażowany,2
+208,Aston Martin,80582,1996,Olej napedowy,2,2/3,11,7,203371,Bezwypadkowy,1
+209,Chrysler,160524,2006,Benzyna,3,2/3,3,15,292613,Serwisowany w ASO,1
+210,Ford,136679,2010,Benzyna,3,4/5,13,2,284310,Pierwszy własciciel,1
+211,Mazda,116402,1993,Benzyna,2,2/3,17,10,139073,Bezwypadkowy,1
+212,Daewoo,122929,1990,Olej napedowy,1,4/5,9,11,76481,Serwisowany w ASO,1
+213,Fiat,54483,2008,Olej napedowy,1,4/5,14,9,206338,Garażowany,2
+214,Citroen,143784,2007,LPG,3,4/5,9,5,246920,Bezwypadkowy,1
+215,Skoda,70689,2007,Olej napedowy,2,2/3,7,10,61392,Pierwszy własciciel,1
+216,Mercedes,90898,2014,Benzyna,3,2/3,6,14,141261,Serwisowany w ASO,1
+217,Chrysler,80761,1994,Olej napedowy,1,2/3,1,3,290601,Garażowany,1
+218,Volvo,136512,2012,Benzyna,1,4/5,17,6,76547,Garażowany,2
+219,Kia,117714,2010,Olej napedowy,1,4/5,8,6,237149,Pierwszy własciciel,1
+220,Chrysler,193383,2004,Benzyna,1,2/3,3,10,183578,Bezwypadkowy,2
+221,Citroen,101634,2006,Benzyna,2,2/3,12,1,95520,Pierwszy własciciel,2
+222,Toyota,161060,2005,LPG,1,4/5,8,6,160839,Serwisowany w ASO,1
+223,BMW,96497,1996,Benzyna,2,4/5,7,8,77979,Garażowany,2
+224,Kia,70367,2015,LPG,2,4/5,8,16,66652,Bezwypadkowy,2
+225,Volvo,193065,2012,Olej napedowy,2,2/3,6,14,67047,Bezwypadkowy,1
+226,Volvo,154502,1997,LPG,2,4/5,18,13,285838,Bezwypadkowy,2
+227,Mercedes,72616,1997,LPG,1,4/5,13,14,116726,Garażowany,1
+228,Volvo,187377,2008,Benzyna,2,2/3,7,7,179160,Serwisowany w ASO,2
+229,Skoda,116225,1997,Olej napedowy,3,4/5,5,1,166152,Garażowany,2
+230,Hyundai,185535,2011,Benzyna,2,4/5,6,7,291382,Pierwszy własciciel,1
+231,Mercedes,137169,2002,LPG,2,2/3,8,7,281395,Bezwypadkowy,1
+232,Kia,191615,1990,Benzyna,1,2/3,18,11,118092,Bezwypadkowy,1
+233,Kia,86467,1993,Olej napedowy,1,4/5,1,1,292067,Serwisowany w ASO,1
+234,Renault,113334,1993,Olej napedowy,2,4/5,5,3,280183,Garażowany,1
+235,Renault,150597,1993,LPG,2,4/5,10,6,60555,Garażowany,1
+236,Opel,58016,2014,LPG,2,4/5,14,2,127802,Bezwypadkowy,2
+237,Hyundai,122921,2010,Olej napedowy,3,2/3,14,12,277210,Bezwypadkowy,2
+238,Chrysler,77669,2005,Olej napedowy,1,4/5,5,2,103322,Garażowany,1
+239,Renault,58838,2000,LPG,2,2/3,17,9,61339,Garażowany,2
+240,Mazda,139829,2006,LPG,1,4/5,9,19,264275,Garażowany,2
+241,BMW,159725,2014,LPG,3,4/5,13,14,74764,Bezwypadkowy,2
+242,Audi,197241,1996,Benzyna,3,2/3,17,3,108868,Garażowany,1
+243,Hyundai,123203,2011,Benzyna,3,4/5,4,7,246477,Garażowany,2
+244,Citroen,53674,2000,LPG,3,2/3,8,15,53039,Serwisowany w ASO,2
+245,Citroen,171172,2014,Olej napedowy,1,4/5,3,12,226033,Garażowany,1
+246,Kia,93094,2005,Olej napedowy,1,2/3,1,4,227939,Garażowany,1
+247,Peugeot,143488,2014,LPG,2,2/3,12,7,136318,Bezwypadkowy,1
+248,Renault,118069,1993,Benzyna,1,2/3,2,14,59815,Bezwypadkowy,2
+249,Hyundai,162403,2000,Olej napedowy,1,2/3,4,9,247102,Serwisowany w ASO,2
+250,Chevrolet,169343,2010,Benzyna,1,4/5,6,2,218719,Bezwypadkowy,2
+251,Citroen,152752,2009,Olej napedowy,2,2/3,12,9,264864,Garażowany,1
+252,Aston Martin,67050,1993,Olej napedowy,2,2/3,18,9,99805,Garażowany,1
+253,Chrysler,149984,2007,Olej napedowy,3,2/3,16,1,180673,Garażowany,2
+254,Seat,94207,2011,LPG,1,2/3,11,10,123541,Bezwypadkowy,2
+255,Mazda,134403,2015,LPG,2,4/5,2,15,155996,Serwisowany w ASO,2
+256,Seat,175416,2003,LPG,2,4/5,18,7,247207,Pierwszy własciciel,1
+257,Kia,69555,2010,LPG,2,4/5,16,5,154061,Bezwypadkowy,2
+258,Toyota,153757,2011,Olej napedowy,1,4/5,9,7,241259,Bezwypadkowy,2
+259,Chrysler,97595,2003,LPG,2,2/3,6,2,119296,Serwisowany w ASO,2
+260,Audi,83176,2013,Olej napedowy,2,2/3,4,13,293566,Garażowany,1
+261,BMW,151737,1996,LPG,1,2/3,7,5,102208,Garażowany,2
+262,Fiat,177978,2007,LPG,1,2/3,7,15,78505,Serwisowany w ASO,2
+263,Mercedes,135739,2000,Benzyna,2,2/3,2,9,243362,Pierwszy własciciel,1
+264,Opel,167758,2014,LPG,1,4/5,14,1,175998,Pierwszy własciciel,1
+265,Dacia,189721,2013,Benzyna,2,4/5,9,10,186405,Bezwypadkowy,2
+266,Mazda,196131,2015,Olej napedowy,1,2/3,7,7,150391,Garażowany,1
+267,Mazda,95492,2008,Olej napedowy,2,2/3,14,13,213053,Garażowany,2
+268,Skoda,187897,1990,Olej napedowy,1,4/5,15,1,252702,Pierwszy własciciel,2
+269,Fiat,97321,2003,Olej napedowy,3,4/5,11,3,71834,Pierwszy własciciel,2
+270,Kia,73693,2010,Benzyna,2,4/5,7,4,86356,Bezwypadkowy,1
+271,BMW,166599,2000,Olej napedowy,2,2/3,2,2,267095,Bezwypadkowy,2
+272,Hyundai,146110,2002,Benzyna,3,4/5,2,9,99039,Garażowany,1
+273,Aston Martin,130544,1990,LPG,1,2/3,18,12,197478,Bezwypadkowy,1
+274,Toyota,106400,2003,LPG,1,2/3,7,7,173794,Garażowany,1
+275,Ford,157405,1997,Olej napedowy,3,4/5,8,6,255208,Pierwszy własciciel,1
+276,Mazda,85191,1996,LPG,2,2/3,2,6,261666,Bezwypadkowy,2
+277,Fiat,149182,2014,Benzyna,2,4/5,10,8,94159,Garażowany,2
+278,Ford,174253,2007,Olej napedowy,3,4/5,18,4,114851,Serwisowany w ASO,1
+279,Mercedes,125901,2010,Benzyna,2,2/3,2,10,96531,Pierwszy własciciel,2
+280,Seat,79758,2003,Olej napedowy,2,2/3,6,8,213573,Pierwszy własciciel,2
+281,Daewoo,67427,2005,Olej napedowy,3,4/5,8,16,136059,Pierwszy własciciel,2
+282,BMW,146961,2003,Benzyna,1,2/3,5,7,66872,Pierwszy własciciel,1
+283,Mercedes,193853,1997,LPG,1,2/3,9,8,90892,Serwisowany w ASO,1
+284,Fiat,181338,1997,LPG,1,4/5,2,1,249946,Bezwypadkowy,2
+285,Dacia,63491,1996,Benzyna,3,2/3,1,1,59430,Bezwypadkowy,1
+286,Seat,90384,2015,Benzyna,1,4/5,1,5,298323,Garażowany,2
+287,Alfa Romeo,136424,2012,Benzyna,1,4/5,8,15,220184,Bezwypadkowy,1
+288,Mazda,189307,2005,LPG,3,4/5,10,6,157570,Pierwszy własciciel,1
+289,Alfa Romeo,140092,2010,Olej napedowy,1,4/5,7,12,297318,Pierwszy własciciel,1
+290,Skoda,189233,2010,Olej napedowy,2,4/5,14,8,103779,Garażowany,1
+291,Honda,197168,2014,LPG,2,4/5,2,8,219227,Garażowany,1
+292,Mercedes,164913,2004,Benzyna,2,4/5,8,12,135865,Bezwypadkowy,2
+293,Chevrolet,84257,2008,LPG,1,2/3,7,14,112069,Bezwypadkowy,2
+294,Mercedes,146075,2003,Olej napedowy,2,4/5,9,1,282908,Bezwypadkowy,2
+295,Peugeot,58155,2006,Benzyna,3,2/3,5,2,186843,Serwisowany w ASO,1
+296,Chevrolet,188086,2006,Benzyna,3,2/3,9,2,60918,Garażowany,1
+297,Peugeot,111496,2002,LPG,3,2/3,5,3,92555,Serwisowany w ASO,2
+298,Seat,117982,2000,Olej napedowy,2,4/5,3,3,135758,Serwisowany w ASO,2
+299,Audi,150891,2009,Benzyna,3,2/3,1,16,83449,Bezwypadkowy,1
+300,Audi,153817,1997,Benzyna,2,2/3,11,11,217986,Bezwypadkowy,2
+301,Daewoo,180409,1996,Olej napedowy,1,2/3,10,14,222180,Garażowany,2
+302,Chrysler,72426,1996,Olej napedowy,1,4/5,4,4,240880,Pierwszy własciciel,2
+303,Alfa Romeo,181699,1996,LPG,1,2/3,15,6,176849,Bezwypadkowy,2
+304,BMW,118025,1996,Olej napedowy,2,4/5,17,2,76034,Pierwszy własciciel,2
+305,Fiat,58737,2003,Olej napedowy,1,4/5,10,14,68078,Pierwszy własciciel,2
+306,Volvo,103325,2009,Benzyna,1,2/3,9,11,58128,Serwisowany w ASO,2
+307,BMW,117602,2010,Benzyna,2,2/3,12,11,82325,Bezwypadkowy,2
+308,Seat,196325,1990,Benzyna,3,2/3,1,11,88683,Pierwszy własciciel,1
+309,Mercedes,137523,2015,Olej napedowy,1,2/3,13,11,142643,Pierwszy własciciel,1
+310,Dacia,71259,1996,LPG,3,2/3,9,12,291053,Serwisowany w ASO,1
+311,BMW,94844,2010,LPG,3,2/3,9,12,77212,Serwisowany w ASO,1
+312,Opel,98684,2015,Benzyna,1,2/3,4,13,152758,Bezwypadkowy,2
+313,Toyota,135356,2013,Olej napedowy,1,2/3,14,3,241355,Bezwypadkowy,2
+314,BMW,137962,2010,LPG,1,2/3,16,1,50009,Garażowany,1
+315,Dacia,87524,2000,LPG,2,4/5,13,6,80862,Garażowany,1
+316,Honda,67703,2010,LPG,1,2/3,3,4,101479,Bezwypadkowy,2
+317,Kia,107078,1997,Benzyna,3,2/3,9,4,165292,Bezwypadkowy,2
+318,Volvo,57195,1996,Olej napedowy,1,2/3,15,15,288023,Garażowany,1
+319,Toyota,169250,2010,Benzyna,2,2/3,5,3,287703,Serwisowany w ASO,1
+320,Hyundai,76348,2004,Benzyna,1,4/5,3,9,216507,Serwisowany w ASO,2
+321,Chrysler,54182,2009,Benzyna,3,2/3,12,3,262903,Serwisowany w ASO,2
+322,Opel,143415,2013,Benzyna,1,4/5,10,5,263316,Serwisowany w ASO,1
+323,Dacia,66556,2002,Benzyna,1,2/3,4,4,122569,Serwisowany w ASO,1
+324,Opel,174634,2010,Benzyna,1,2/3,17,1,186841,Bezwypadkowy,2
+325,Kia,79826,2004,LPG,1,4/5,10,15,99136,Garażowany,1
+326,Fiat,138218,2014,Benzyna,1,4/5,8,4,99015,Garażowany,2
+327,Daewoo,53486,2014,Benzyna,2,2/3,1,5,173750,Serwisowany w ASO,2
+328,Mercedes,171061,1993,Benzyna,2,4/5,7,8,214671,Garażowany,2
+329,Honda,131022,2008,LPG,3,2/3,7,14,262778,Pierwszy własciciel,2
+330,Honda,180951,1993,LPG,3,4/5,11,3,269951,Pierwszy własciciel,2
+331,BMW,104026,2009,Benzyna,1,4/5,13,4,163853,Serwisowany w ASO,1
+332,Citroen,133461,2014,Olej napedowy,3,2/3,1,1,118847,Serwisowany w ASO,2
+333,Citroen,58594,2003,Olej napedowy,2,4/5,7,15,227697,Bezwypadkowy,2
+334,Seat,189449,2007,Benzyna,2,4/5,18,4,177684,Serwisowany w ASO,2
+335,Hyundai,198808,2003,LPG,3,2/3,5,7,269351,Bezwypadkowy,2
+336,Alfa Romeo,78015,1990,Benzyna,2,4/5,12,16,121166,Pierwszy własciciel,2
+337,Alfa Romeo,96451,1996,LPG,1,4/5,15,15,255677,Serwisowany w ASO,2
+338,Chrysler,101694,2011,Olej napedowy,1,4/5,16,16,232009,Garażowany,2
+339,Ford,74464,2006,LPG,1,4/5,17,10,78390,Serwisowany w ASO,2
+340,Hyundai,100538,2003,LPG,1,4/5,4,16,245316,Serwisowany w ASO,2
+341,Opel,92215,1996,Benzyna,2,4/5,6,5,151131,Pierwszy własciciel,2
+342,Peugeot,127139,1990,Benzyna,3,4/5,7,3,89599,Bezwypadkowy,1
+343,Opel,54209,1997,LPG,2,2/3,1,12,219589,Pierwszy własciciel,1
+344,Mercedes,90536,2002,Benzyna,3,2/3,17,2,83232,Garażowany,1
+345,Dacia,100771,2011,LPG,2,4/5,4,16,180374,Serwisowany w ASO,1
+346,Mazda,73658,2003,LPG,2,2/3,1,5,269434,Serwisowany w ASO,1
+347,Fiat,64701,2007,Benzyna,2,2/3,3,5,55932,Pierwszy własciciel,1
+348,Skoda,100123,2002,LPG,2,2/3,2,10,62153,Garażowany,2
+349,Mercedes,127169,2004,Olej napedowy,3,4/5,11,5,298115,Serwisowany w ASO,1
+350,Opel,127321,2006,Olej napedowy,3,2/3,18,15,230113,Bezwypadkowy,2
+351,Kia,52798,2005,Benzyna,3,2/3,3,4,135579,Pierwszy własciciel,2
+352,Ford,156735,1996,Benzyna,2,2/3,17,11,97043,Garażowany,2
+353,Chrysler,193070,2011,Olej napedowy,3,4/5,16,11,236960,Serwisowany w ASO,2
+354,Citroen,74090,1997,Benzyna,3,2/3,13,8,67604,Garażowany,1
+355,Kia,185954,1996,Benzyna,3,2/3,6,10,288439,Bezwypadkowy,1
+356,Audi,81538,2009,LPG,3,2/3,15,8,199812,Garażowany,2
+357,Chrysler,184721,1993,LPG,3,2/3,16,8,175553,Pierwszy własciciel,2
+358,Citroen,95841,2003,Olej napedowy,2,4/5,8,7,141364,Serwisowany w ASO,2
+359,Ford,83429,1994,Benzyna,3,4/5,14,3,112573,Bezwypadkowy,1
+360,Opel,134421,2014,Benzyna,2,4/5,4,3,242075,Pierwszy własciciel,2
+361,Daewoo,68496,1996,Olej napedowy,3,4/5,12,13,191266,Garażowany,1
+362,Volvo,126462,2010,LPG,3,2/3,18,14,223950,Pierwszy własciciel,1
+363,Renault,136834,2003,Benzyna,1,2/3,11,5,64813,Serwisowany w ASO,1
+364,Fiat,73635,2002,LPG,2,4/5,17,5,181873,Garażowany,1
+365,Audi,100308,1993,Benzyna,3,2/3,12,7,87067,Garażowany,2
+366,Opel,197183,1997,Benzyna,2,4/5,18,8,153525,Garażowany,2
+367,Mercedes,77885,2005,LPG,2,4/5,14,7,262574,Pierwszy własciciel,2
+368,Honda,134526,2007,Benzyna,3,2/3,16,1,200481,Garażowany,1
+369,Seat,81900,2004,LPG,2,2/3,2,1,167693,Garażowany,1
+370,Mazda,136121,2005,Olej napedowy,3,2/3,5,7,65188,Bezwypadkowy,2
+371,Citroen,94650,2004,Benzyna,2,4/5,15,9,281316,Garażowany,1
+372,Skoda,142335,2006,Olej napedowy,1,2/3,13,10,127998,Serwisowany w ASO,2
+373,Kia,197689,2004,LPG,1,2/3,2,14,227285,Serwisowany w ASO,2
+374,Seat,109464,2010,LPG,2,2/3,17,8,52749,Pierwszy własciciel,1
+375,Mazda,167411,2000,LPG,2,2/3,9,10,188958,Bezwypadkowy,1
+376,Hyundai,65437,1996,LPG,1,4/5,10,16,183430,Garażowany,2
+377,Alfa Romeo,191241,2004,Olej napedowy,1,4/5,2,14,241175,Pierwszy własciciel,2
+378,Audi,194329,1994,LPG,2,2/3,2,5,183390,Pierwszy własciciel,2
+379,Mercedes,69013,2008,Benzyna,1,2/3,15,15,60350,Garażowany,2
+380,Chrysler,142603,2012,LPG,3,4/5,4,11,204713,Serwisowany w ASO,1
+381,Hyundai,96373,2014,LPG,1,2/3,12,9,210902,Garażowany,1
+382,Fiat,106049,2000,Olej napedowy,3,4/5,7,7,220515,Garażowany,1
+383,Toyota,195785,2012,Olej napedowy,1,4/5,15,16,67341,Bezwypadkowy,2
+384,Mazda,190449,2012,LPG,2,2/3,6,5,96102,Pierwszy własciciel,2
+385,Opel,169431,2008,Olej napedowy,3,4/5,17,14,263630,Serwisowany w ASO,1
+386,Dacia,159157,1997,Olej napedowy,1,4/5,7,9,70581,Pierwszy własciciel,1
+387,Honda,62467,1994,Olej napedowy,1,4/5,8,8,250311,Bezwypadkowy,2
+388,Skoda,117691,2006,Benzyna,3,4/5,11,12,192972,Pierwszy własciciel,2
+389,Daewoo,178286,1990,Benzyna,3,4/5,3,4,113089,Garażowany,2
+390,Mazda,86005,2015,Benzyna,1,4/5,6,11,135836,Serwisowany w ASO,1
+391,Alfa Romeo,142454,2006,Olej napedowy,3,4/5,8,5,185248,Pierwszy własciciel,1
+392,Renault,77706,1990,Olej napedowy,1,4/5,5,4,174599,Garażowany,2
+393,Renault,147927,2010,Benzyna,1,4/5,17,7,289990,Garażowany,1
+394,Alfa Romeo,80720,2002,LPG,1,2/3,13,3,259934,Serwisowany w ASO,1
+395,Daewoo,85908,2007,LPG,1,2/3,3,12,254617,Serwisowany w ASO,2
+396,Ford,163533,2005,Olej napedowy,1,2/3,3,15,222609,Garażowany,2
+397,Honda,106019,2005,LPG,2,4/5,5,5,174978,Serwisowany w ASO,2
+398,Audi,177257,2002,Olej napedowy,1,4/5,2,9,299491,Garażowany,1
+399,Fiat,82278,2006,Benzyna,2,4/5,16,16,119251,Serwisowany w ASO,1
+400,Chevrolet,148724,2005,Benzyna,1,2/3,2,16,262483,Bezwypadkowy,2
+401,Audi,125147,2005,LPG,1,2/3,13,15,298328,Garażowany,1
+402,Hyundai,95664,2013,Olej napedowy,2,2/3,1,5,216606,Serwisowany w ASO,2
+403,Volvo,140837,1996,Benzyna,2,4/5,13,6,184560,Garażowany,1
+404,Daewoo,183584,2002,Benzyna,1,4/5,16,14,294221,Serwisowany w ASO,2
+405,Alfa Romeo,131781,2000,Olej napedowy,1,2/3,5,15,298062,Bezwypadkowy,2
+406,Skoda,174981,1994,Benzyna,2,2/3,6,6,165163,Pierwszy własciciel,1
+407,Ford,80237,2013,Benzyna,2,4/5,6,9,62199,Serwisowany w ASO,2
+408,Renault,142090,1993,LPG,2,4/5,15,2,129023,Pierwszy własciciel,2
+409,Honda,137766,2013,Benzyna,1,4/5,5,3,212698,Garażowany,1
+410,Peugeot,108908,2009,Benzyna,3,2/3,2,8,214239,Garażowany,1
+411,Citroen,67971,1990,Benzyna,3,4/5,8,3,247401,Bezwypadkowy,2
+412,Chrysler,102510,1990,Olej napedowy,2,2/3,6,16,227300,Garażowany,2
+413,Audi,94598,2013,LPG,2,2/3,7,6,187962,Bezwypadkowy,1
+414,Chevrolet,155914,2011,LPG,1,2/3,14,7,74854,Garażowany,1
+415,Alfa Romeo,90067,2011,LPG,3,2/3,1,16,133907,Garażowany,1
+416,Opel,72269,2013,LPG,3,4/5,14,8,65090,Serwisowany w ASO,2
+417,Chrysler,123517,2005,Olej napedowy,1,4/5,1,2,93583,Pierwszy własciciel,1
+418,Ford,99235,2003,Olej napedowy,3,2/3,12,6,233025,Bezwypadkowy,1
+419,Hyundai,82558,1994,Benzyna,1,2/3,9,4,243006,Serwisowany w ASO,1
+420,Skoda,148904,2010,LPG,3,2/3,7,5,266699,Garażowany,2
+421,Ford,127415,2010,LPG,2,4/5,17,1,195546,Serwisowany w ASO,1
+422,Volvo,71036,2011,LPG,2,4/5,8,2,65974,Serwisowany w ASO,1
+423,Aston Martin,193192,2007,Olej napedowy,1,4/5,12,7,161797,Garażowany,1
+424,Aston Martin,97567,2002,Benzyna,3,4/5,1,12,194194,Garażowany,1
+425,Daewoo,176170,2015,LPG,3,4/5,16,2,56747,Serwisowany w ASO,2
+426,Peugeot,182151,2003,LPG,3,4/5,2,11,95584,Bezwypadkowy,1
+427,Ford,56252,1994,Benzyna,2,4/5,3,15,144996,Pierwszy własciciel,2
+428,Mercedes,180821,2007,Olej napedowy,3,4/5,5,4,80064,Bezwypadkowy,1
+429,Seat,64326,2008,Benzyna,3,2/3,14,6,298121,Serwisowany w ASO,1
+430,Seat,132233,2003,Olej napedowy,2,4/5,10,6,187110,Serwisowany w ASO,2
+431,Chevrolet,113593,2007,LPG,3,2/3,8,12,167915,Garażowany,1
+432,Fiat,79996,2006,LPG,3,4/5,5,9,103746,Pierwszy własciciel,1
+433,Ford,51185,1993,LPG,1,4/5,10,13,205564,Garażowany,1
+434,Alfa Romeo,110353,2015,Olej napedowy,3,4/5,8,13,92238,Garażowany,1
+435,Mazda,199963,2011,LPG,2,4/5,7,6,132354,Garażowany,2
+436,Honda,153303,1997,LPG,1,4/5,7,10,188355,Serwisowany w ASO,1
+437,Volvo,175651,2015,Benzyna,1,4/5,18,1,182958,Bezwypadkowy,2
+438,Ford,72912,2004,Benzyna,2,4/5,8,15,267846,Garażowany,2
+439,Hyundai,114861,2007,Benzyna,2,2/3,6,9,148693,Bezwypadkowy,2
+440,Kia,112012,2003,Benzyna,1,2/3,1,1,235419,Garażowany,2
+441,Alfa Romeo,96100,2010,LPG,2,2/3,4,2,229945,Bezwypadkowy,2
+442,Seat,140546,1994,Benzyna,3,4/5,10,15,118061,Bezwypadkowy,2
+443,Mazda,176530,1993,Olej napedowy,3,2/3,9,6,239218,Pierwszy własciciel,1
+444,Peugeot,76972,2005,Benzyna,1,2/3,17,13,105954,Serwisowany w ASO,2
+445,Kia,138084,2003,Olej napedowy,2,4/5,17,3,272165,Serwisowany w ASO,2
+446,BMW,158613,2008,Benzyna,1,2/3,6,8,218562,Garażowany,1
+447,Peugeot,100196,2006,Benzyna,3,4/5,6,1,260124,Garażowany,2
+448,Toyota,57414,2000,LPG,3,4/5,11,9,99970,Garażowany,2
+449,Chrysler,137519,2000,LPG,2,2/3,12,7,241740,Garażowany,1
+450,Toyota,162482,2005,Olej napedowy,2,2/3,13,14,217754,Bezwypadkowy,1
+451,BMW,170035,2008,Benzyna,3,4/5,6,9,179786,Garażowany,2
+452,Mazda,145387,2011,LPG,2,2/3,12,10,281165,Pierwszy własciciel,1
+453,Ford,116056,2000,LPG,2,2/3,5,2,103492,Pierwszy własciciel,2
+454,Opel,126917,1990,LPG,2,2/3,15,10,84585,Pierwszy własciciel,2
+455,Renault,181298,1990,Olej napedowy,1,2/3,2,3,207768,Garażowany,2
+456,Seat,160251,1996,LPG,3,2/3,18,11,137232,Garażowany,2
+457,Fiat,154580,2009,Benzyna,1,2/3,7,15,175650,Pierwszy własciciel,2
+458,Dacia,146619,2002,Benzyna,1,4/5,16,16,119100,Serwisowany w ASO,2
+459,Peugeot,162108,1996,Benzyna,1,4/5,12,13,62691,Serwisowany w ASO,2
+460,Honda,190920,2012,Olej napedowy,3,2/3,9,14,81528,Garażowany,1
+461,Renault,161290,2013,LPG,2,2/3,1,14,191118,Serwisowany w ASO,1
+462,Toyota,120792,2010,Benzyna,2,2/3,15,14,202081,Serwisowany w ASO,2
+463,Toyota,87245,2006,Benzyna,1,4/5,18,1,130766,Garażowany,2
+464,Citroen,155489,2010,LPG,3,4/5,2,1,275353,Serwisowany w ASO,1
+465,Opel,76516,1997,Benzyna,3,4/5,1,13,294243,Bezwypadkowy,2
+466,Mercedes,172559,1994,Olej napedowy,2,4/5,11,6,69889,Garażowany,2
+467,Kia,187635,2004,Benzyna,3,4/5,3,9,262684,Pierwszy własciciel,2
+468,Alfa Romeo,177939,2015,Benzyna,2,2/3,10,11,285683,Bezwypadkowy,1
+469,Aston Martin,76602,2010,LPG,3,4/5,3,4,160241,Pierwszy własciciel,1
+470,Mercedes,154374,2014,Benzyna,2,2/3,2,10,57596,Bezwypadkowy,1
+471,Mazda,120188,1996,LPG,2,2/3,5,4,236768,Garażowany,2
+472,Daewoo,110251,1997,LPG,1,4/5,6,3,62137,Bezwypadkowy,1
+473,Audi,162201,2004,Olej napedowy,3,2/3,16,16,64992,Bezwypadkowy,1
+474,Alfa Romeo,82461,1996,Benzyna,3,2/3,2,1,93640,Serwisowany w ASO,1
+475,Dacia,145009,2004,Benzyna,2,2/3,10,7,167702,Serwisowany w ASO,2
+476,Chevrolet,67130,1994,Olej napedowy,1,2/3,1,14,146145,Garażowany,1
+477,Toyota,194665,2015,Olej napedowy,3,2/3,17,5,127926,Garażowany,2
+478,Aston Martin,174216,2002,Benzyna,3,2/3,16,16,65380,Serwisowany w ASO,2
+479,Kia,171004,2009,Benzyna,2,4/5,8,5,247128,Garażowany,2
+480,Daewoo,116259,1993,LPG,2,4/5,12,3,207420,Bezwypadkowy,2
+481,Peugeot,159777,1997,LPG,1,4/5,6,6,110094,Pierwszy własciciel,1
+482,Kia,57244,2007,Olej napedowy,1,2/3,1,6,232573,Pierwszy własciciel,1
+483,Peugeot,111488,2015,Benzyna,1,4/5,18,5,158678,Garażowany,1
+484,BMW,164275,2009,LPG,2,4/5,17,10,215240,Serwisowany w ASO,2
+485,Dacia,158244,2006,Olej napedowy,1,2/3,2,2,75689,Garażowany,1
+486,Dacia,194072,1994,Olej napedowy,2,2/3,7,9,176539,Serwisowany w ASO,1
+487,Alfa Romeo,192714,2007,Benzyna,3,4/5,2,12,277601,Serwisowany w ASO,1
+488,Mazda,132181,2013,Benzyna,3,2/3,10,10,175661,Pierwszy własciciel,2
+489,Skoda,111655,2009,Benzyna,1,2/3,11,5,168994,Pierwszy własciciel,2
+490,Skoda,195621,1993,Olej napedowy,2,2/3,1,1,75282,Bezwypadkowy,2
+491,Seat,74655,2013,Olej napedowy,1,2/3,6,5,96643,Garażowany,2
+492,Seat,119319,2007,Benzyna,1,4/5,2,10,227313,Garażowany,1
+493,Mazda,99313,2009,Benzyna,2,2/3,1,12,113113,Garażowany,2
+494,Volvo,163460,2012,Olej napedowy,2,4/5,2,6,226497,Pierwszy własciciel,2
+495,Peugeot,50554,2015,Olej napedowy,1,4/5,10,11,161559,Serwisowany w ASO,2
+496,Chevrolet,62457,2002,LPG,3,2/3,8,14,117167,Serwisowany w ASO,2
+497,Daewoo,166879,1993,Olej napedowy,2,4/5,11,10,189513,Serwisowany w ASO,2
+498,Peugeot,59689,1996,Benzyna,2,4/5,5,16,222684,Pierwszy własciciel,2
+499,Toyota,156943,1996,Benzyna,1,4/5,3,1,58721,Bezwypadkowy,2
+500,Daewoo,80786,2007,Olej napedowy,1,2/3,8,9,86110,Serwisowany w ASO,1
+501,Seat,56268,1996,Benzyna,2,2/3,1,10,81508,Pierwszy własciciel,2
+502,Opel,94090,1996,Olej napedowy,3,2/3,4,11,97676,Garażowany,1
+503,Seat,141905,2008,Benzyna,2,4/5,12,5,164513,Serwisowany w ASO,2
+504,BMW,50112,1996,LPG,3,2/3,2,13,194878,Pierwszy własciciel,2
+505,Skoda,64163,2003,Olej napedowy,1,4/5,5,16,249951,Serwisowany w ASO,1
+506,Mercedes,159235,1993,LPG,1,4/5,18,7,105459,Bezwypadkowy,2
+507,Audi,140728,2007,Olej napedowy,3,2/3,10,6,64862,Bezwypadkowy,1
+508,Dacia,138257,1996,LPG,1,4/5,17,8,107477,Bezwypadkowy,2
+509,Citroen,156068,2011,Olej napedowy,3,2/3,10,16,269873,Garażowany,1
+510,Hyundai,120069,2003,Olej napedowy,3,2/3,17,13,285697,Serwisowany w ASO,1
+511,Volvo,69319,2009,Olej napedowy,2,4/5,12,2,78611,Bezwypadkowy,1
+512,Mazda,192567,2007,LPG,3,2/3,6,9,239642,Bezwypadkowy,2
+513,Fiat,53971,2008,Benzyna,2,4/5,12,8,55408,Serwisowany w ASO,1
+514,Audi,142130,1993,Benzyna,2,4/5,16,1,112652,Garażowany,2
+515,Hyundai,106140,1990,Benzyna,3,4/5,3,15,221638,Bezwypadkowy,2
+516,Opel,136413,2004,LPG,3,4/5,6,8,168786,Pierwszy własciciel,1
+517,Toyota,53265,2008,Olej napedowy,3,4/5,2,1,141260,Garażowany,2
+518,Chevrolet,166464,2015,Olej napedowy,1,2/3,17,4,211610,Bezwypadkowy,1
+519,Dacia,133487,2000,LPG,3,4/5,7,3,170429,Pierwszy własciciel,2
+520,Renault,155089,1997,LPG,3,2/3,2,10,293705,Bezwypadkowy,1
+521,Opel,51800,1990,LPG,3,2/3,13,12,114016,Pierwszy własciciel,2
+522,Toyota,152755,2014,Benzyna,3,2/3,11,8,216009,Serwisowany w ASO,1
+523,Skoda,88013,2000,LPG,2,4/5,17,1,138576,Garażowany,2
+524,Kia,59867,2015,LPG,1,4/5,13,4,200550,Pierwszy własciciel,1
+525,Skoda,143161,2013,LPG,3,4/5,12,1,211574,Pierwszy własciciel,2
+526,Volvo,159551,1993,LPG,1,2/3,5,6,86174,Pierwszy własciciel,2
+527,Aston Martin,65598,2004,Benzyna,3,2/3,9,5,243188,Garażowany,2
+528,Audi,199513,2006,Benzyna,1,2/3,9,3,260228,Serwisowany w ASO,2
+529,Ford,176523,2000,Benzyna,2,4/5,3,1,109033,Garażowany,1
+530,Toyota,127766,2010,Benzyna,2,2/3,11,11,64334,Bezwypadkowy,1
+531,Seat,185890,1994,Benzyna,3,4/5,10,16,141412,Bezwypadkowy,2
+532,Daewoo,159623,1994,Olej napedowy,3,2/3,12,15,231624,Pierwszy własciciel,1
+533,Alfa Romeo,115932,1997,Benzyna,3,4/5,7,15,183080,Pierwszy własciciel,1
+534,Aston Martin,75941,2006,LPG,2,4/5,13,13,290348,Garażowany,1
+535,Chevrolet,70510,1990,Benzyna,3,2/3,7,11,192143,Garażowany,1
+536,BMW,67851,2015,LPG,1,2/3,2,16,272418,Garażowany,2
+537,Volvo,98791,2012,Olej napedowy,2,2/3,14,3,245002,Serwisowany w ASO,1
+538,Opel,168408,1996,Olej napedowy,2,2/3,2,2,254301,Bezwypadkowy,2
+539,Aston Martin,133262,2005,Benzyna,2,2/3,13,14,263898,Pierwszy własciciel,1
+540,Kia,80953,1997,Benzyna,1,2/3,1,11,59392,Garażowany,2
+541,BMW,127250,1994,LPG,1,2/3,10,16,215631,Bezwypadkowy,1
+542,Ford,73814,1996,LPG,3,2/3,11,4,249727,Garażowany,2
+543,Mercedes,96129,1997,Benzyna,2,2/3,15,13,226047,Pierwszy własciciel,2
+544,Peugeot,70631,2000,Benzyna,3,2/3,11,14,220765,Garażowany,1
+545,Toyota,78493,2015,Olej napedowy,2,2/3,14,8,250799,Pierwszy własciciel,1
+546,BMW,108746,2012,Olej napedowy,1,2/3,14,11,176675,Bezwypadkowy,2
+547,Peugeot,160258,2014,Olej napedowy,1,4/5,4,11,141954,Pierwszy własciciel,1
+548,Mercedes,166464,2008,LPG,3,4/5,17,6,175644,Garażowany,1
+549,Seat,183666,2004,LPG,3,4/5,10,11,114141,Pierwszy własciciel,1
+550,Seat,73448,1994,Benzyna,3,2/3,13,1,251656,Bezwypadkowy,1
+551,Daewoo,76768,2006,Olej napedowy,3,2/3,12,16,112980,Pierwszy własciciel,2
+552,Hyundai,159083,2011,LPG,1,2/3,7,10,69545,Pierwszy własciciel,1
+553,Ford,144851,2008,Benzyna,1,2/3,6,6,260249,Serwisowany w ASO,1
+554,BMW,183373,2008,Olej napedowy,2,2/3,18,1,187295,Garażowany,1
+555,Hyundai,170620,1994,LPG,1,2/3,8,12,168550,Bezwypadkowy,1
+556,Volvo,156381,2013,LPG,1,2/3,9,12,270593,Garażowany,2
+557,Volvo,107988,2013,LPG,1,2/3,17,7,157651,Pierwszy własciciel,1
+558,Ford,76570,2007,LPG,2,4/5,7,1,97687,Pierwszy własciciel,2
+559,Chevrolet,151601,2004,Olej napedowy,2,2/3,13,10,124884,Serwisowany w ASO,1
+560,Alfa Romeo,151060,2008,Benzyna,1,4/5,4,9,114638,Bezwypadkowy,2
+561,Dacia,82292,1997,LPG,1,2/3,8,14,198870,Bezwypadkowy,1
+562,Alfa Romeo,127949,2015,LPG,3,2/3,8,6,140983,Pierwszy własciciel,1
+563,Toyota,154589,2010,Olej napedowy,1,4/5,2,7,126160,Garażowany,2
+564,Citroen,183583,1996,Olej napedowy,1,4/5,18,12,172830,Garażowany,2
+565,Hyundai,68185,2013,LPG,3,2/3,15,13,281362,Bezwypadkowy,2
+566,Fiat,141927,2000,Benzyna,1,4/5,16,8,148102,Serwisowany w ASO,2
+567,Honda,155707,2012,Benzyna,1,4/5,15,11,118765,Bezwypadkowy,2
+568,Aston Martin,132367,1994,Benzyna,3,2/3,4,3,129059,Garażowany,1
+569,Mazda,133668,1996,Olej napedowy,1,2/3,3,14,71069,Pierwszy własciciel,1
+570,Seat,161186,2010,Benzyna,3,4/5,17,6,250686,Bezwypadkowy,1
+571,Mazda,105158,2007,Olej napedowy,3,4/5,4,3,174676,Pierwszy własciciel,1
+572,Kia,168603,2006,LPG,3,4/5,12,10,281896,Garażowany,2
+573,Daewoo,115981,1996,LPG,1,4/5,5,16,289823,Garażowany,2
+574,Peugeot,163266,2010,Olej napedowy,1,4/5,3,7,215727,Bezwypadkowy,1
+575,Ford,189678,2015,Olej napedowy,3,2/3,4,4,273861,Bezwypadkowy,2
+576,Chevrolet,148358,2014,LPG,3,2/3,2,3,240917,Bezwypadkowy,2
+577,Peugeot,123625,2009,Benzyna,2,2/3,9,10,64766,Serwisowany w ASO,2
+578,Ford,160080,1994,LPG,1,4/5,4,11,283835,Pierwszy własciciel,1
+579,Alfa Romeo,135796,2002,Olej napedowy,3,2/3,9,1,185335,Garażowany,2
+580,Toyota,57415,2015,Olej napedowy,2,4/5,5,7,157625,Garażowany,2
+581,Volvo,83637,2000,Olej napedowy,1,4/5,12,7,131623,Bezwypadkowy,2
+582,Mercedes,92524,1994,Benzyna,1,4/5,16,11,278369,Pierwszy własciciel,2
+583,Hyundai,99774,1996,LPG,3,4/5,7,4,293201,Bezwypadkowy,2
+584,Dacia,63489,2012,Benzyna,1,4/5,3,5,298132,Bezwypadkowy,2
+585,Seat,62263,2011,Benzyna,3,2/3,5,3,223248,Serwisowany w ASO,2
+586,Alfa Romeo,106963,2009,Benzyna,2,4/5,14,3,294402,Pierwszy własciciel,1
+587,Opel,162921,2002,Benzyna,3,2/3,7,1,101412,Serwisowany w ASO,2
+588,Hyundai,69108,2009,Benzyna,2,4/5,11,6,108764,Bezwypadkowy,2
+589,Hyundai,68065,2015,LPG,3,4/5,10,15,52508,Pierwszy własciciel,2
+590,Kia,128395,2014,Benzyna,3,4/5,11,4,242224,Garażowany,1
+591,Daewoo,87885,1990,Benzyna,2,2/3,12,9,116094,Garażowany,2
+592,Audi,141059,1996,LPG,1,4/5,14,3,89670,Serwisowany w ASO,2
+593,Daewoo,119691,2008,Olej napedowy,2,4/5,17,7,117219,Pierwszy własciciel,1
+594,Skoda,139313,2005,Olej napedowy,3,2/3,7,16,216442,Bezwypadkowy,2
+595,Aston Martin,178085,2005,Benzyna,2,4/5,12,15,275191,Serwisowany w ASO,2
+596,Honda,154353,2012,Benzyna,1,2/3,15,10,225251,Serwisowany w ASO,2
+597,Dacia,83126,2014,Benzyna,1,2/3,14,5,168745,Serwisowany w ASO,2
+598,Citroen,87667,2010,Benzyna,1,2/3,5,5,262164,Pierwszy własciciel,1
+599,Volvo,89516,2015,LPG,2,4/5,5,7,85018,Serwisowany w ASO,2
+600,Toyota,130315,2006,Benzyna,1,2/3,17,13,243763,Pierwszy własciciel,2
+601,Skoda,131234,1994,Olej napedowy,3,4/5,11,13,193194,Garażowany,2
+602,Fiat,158050,2012,Olej napedowy,2,4/5,2,2,59387,Pierwszy własciciel,2
+603,Daewoo,184902,1993,Olej napedowy,1,2/3,9,2,117738,Garażowany,2
+604,Skoda,198899,2010,LPG,2,2/3,6,14,194533,Bezwypadkowy,2
+605,Chrysler,101761,1997,LPG,2,4/5,3,4,147301,Garażowany,1
+606,Alfa Romeo,91551,2013,Benzyna,3,4/5,18,2,59742,Bezwypadkowy,2
+607,Volvo,127955,2002,Benzyna,2,4/5,16,7,79433,Bezwypadkowy,2
+608,Daewoo,59210,2003,LPG,2,4/5,18,11,160258,Serwisowany w ASO,1
+609,Seat,124940,1996,Benzyna,3,4/5,8,4,254742,Serwisowany w ASO,1
+610,Mazda,64659,1990,LPG,1,2/3,7,14,144620,Bezwypadkowy,2
+611,Mazda,80677,2009,Olej napedowy,1,2/3,7,9,277650,Garażowany,1
+612,Honda,128743,2008,LPG,1,2/3,6,5,180752,Bezwypadkowy,1
+613,Chrysler,105484,2010,Benzyna,3,4/5,6,5,154076,Pierwszy własciciel,1
+614,Chrysler,165389,2010,Benzyna,1,2/3,15,13,274532,Serwisowany w ASO,1
+615,Alfa Romeo,165791,2013,LPG,3,4/5,9,16,65987,Garażowany,2
+616,Kia,193415,2009,LPG,3,4/5,1,7,99431,Bezwypadkowy,2
+617,BMW,101159,1990,Olej napedowy,3,2/3,18,11,112458,Pierwszy własciciel,2
+618,Alfa Romeo,130608,2004,LPG,1,2/3,13,13,243732,Garażowany,2
+619,Toyota,199990,1990,Olej napedowy,1,2/3,8,6,256961,Garażowany,1
+620,Renault,174243,1996,LPG,1,4/5,15,3,114160,Serwisowany w ASO,1
+621,Aston Martin,95606,2002,Benzyna,3,4/5,18,8,92896,Serwisowany w ASO,2
+622,Audi,83965,1997,Benzyna,2,4/5,15,7,203369,Garażowany,1
+623,Volvo,74614,2015,Benzyna,3,4/5,8,6,126129,Pierwszy własciciel,1
+624,Chevrolet,161535,2003,Olej napedowy,1,4/5,12,1,55698,Pierwszy własciciel,1
+625,Daewoo,123832,1993,Benzyna,3,2/3,11,13,124862,Garażowany,1
+626,Dacia,62697,1997,Olej napedowy,3,2/3,17,6,291421,Bezwypadkowy,2
+627,Chevrolet,174139,2014,LPG,3,4/5,8,11,263750,Pierwszy własciciel,2
+628,Toyota,75576,2010,Olej napedowy,2,2/3,12,12,262102,Garażowany,1
+629,Daewoo,197940,1996,Benzyna,2,4/5,2,9,103025,Pierwszy własciciel,1
+630,Hyundai,93690,2014,LPG,1,2/3,5,10,211936,Serwisowany w ASO,2
+631,Audi,170812,2010,Benzyna,2,2/3,2,10,271083,Bezwypadkowy,1
+632,Chevrolet,95720,2008,Benzyna,2,2/3,11,15,212681,Serwisowany w ASO,1
+633,Chrysler,90937,2013,Benzyna,3,2/3,4,16,175211,Pierwszy własciciel,1
+634,Toyota,154656,2009,Olej napedowy,1,4/5,4,5,154192,Pierwszy własciciel,1
+635,Fiat,146091,2015,Olej napedowy,2,4/5,12,5,156925,Garażowany,1
+636,Peugeot,81547,1994,Benzyna,3,2/3,17,1,180916,Pierwszy własciciel,1
+637,Renault,179051,2004,Olej napedowy,3,2/3,13,13,52751,Serwisowany w ASO,2
+638,Daewoo,76560,1990,Benzyna,2,4/5,4,13,151302,Bezwypadkowy,2
+639,Renault,139411,2008,LPG,1,4/5,16,8,116785,Serwisowany w ASO,1
+640,Daewoo,160446,2005,LPG,3,2/3,6,2,288174,Bezwypadkowy,1
+641,Hyundai,54497,2015,Olej napedowy,2,4/5,9,3,156725,Serwisowany w ASO,1
+642,Chrysler,136585,2009,LPG,2,2/3,6,11,112150,Bezwypadkowy,1
+643,Chevrolet,86663,1990,LPG,3,2/3,13,2,81284,Serwisowany w ASO,2
+644,Kia,184562,2013,Benzyna,2,4/5,16,2,136126,Serwisowany w ASO,1
+645,Chrysler,96937,1996,Olej napedowy,3,2/3,17,16,244361,Serwisowany w ASO,2
+646,BMW,139361,2011,LPG,3,2/3,13,12,170494,Bezwypadkowy,2
+647,Mercedes,69974,1994,Benzyna,3,4/5,13,3,55503,Garażowany,1
+648,Opel,120035,2006,Olej napedowy,1,4/5,1,7,157446,Garażowany,2
+649,Mercedes,181432,1996,Olej napedowy,3,2/3,7,10,159725,Bezwypadkowy,2
+650,Citroen,61788,1997,Benzyna,2,4/5,15,7,127515,Bezwypadkowy,2
+651,Toyota,185762,1996,Olej napedowy,3,2/3,14,9,224915,Bezwypadkowy,2
+652,Seat,53369,2014,Olej napedowy,2,2/3,5,11,51737,Pierwszy własciciel,1
+653,Skoda,79579,2006,Olej napedowy,1,4/5,12,11,222435,Bezwypadkowy,1
+654,Seat,179507,2004,Olej napedowy,3,4/5,16,7,190278,Garażowany,1
+655,Renault,108085,2014,LPG,3,4/5,10,16,106387,Pierwszy własciciel,2
+656,Opel,136422,2003,Olej napedowy,1,2/3,14,12,74721,Bezwypadkowy,2
+657,Mazda,100504,2008,LPG,2,2/3,17,9,123285,Serwisowany w ASO,1
+658,Daewoo,72662,1994,Benzyna,3,4/5,4,12,65162,Garażowany,1
+659,Seat,192441,1990,Benzyna,1,2/3,10,12,290826,Bezwypadkowy,1
+660,Dacia,147091,2009,Benzyna,1,4/5,6,4,214125,Serwisowany w ASO,1
+661,Hyundai,132161,2002,Benzyna,1,2/3,7,3,182672,Garażowany,2
+662,Chevrolet,191967,2011,Olej napedowy,3,4/5,12,4,84175,Pierwszy własciciel,2
+663,Hyundai,84241,2007,Olej napedowy,3,2/3,11,10,71705,Bezwypadkowy,2
+664,Chrysler,58261,2012,Olej napedowy,2,4/5,17,7,289941,Bezwypadkowy,2
+665,Peugeot,97966,2008,Benzyna,1,4/5,4,5,190038,Bezwypadkowy,2
+666,Fiat,174137,2007,Benzyna,2,4/5,9,15,101784,Bezwypadkowy,1
+667,Audi,114187,2012,Benzyna,2,4/5,4,2,72355,Garażowany,2
+668,Chrysler,182818,1990,LPG,1,2/3,11,12,67052,Serwisowany w ASO,2
+669,Audi,81874,2009,LPG,2,2/3,17,12,228721,Bezwypadkowy,2
+670,Skoda,145014,2002,Benzyna,2,4/5,16,7,138877,Bezwypadkowy,1
+671,Opel,97719,2012,Olej napedowy,1,2/3,10,3,159294,Serwisowany w ASO,2
+672,Citroen,133642,2005,Benzyna,2,4/5,15,13,271620,Garażowany,2
+673,Mercedes,146252,2005,LPG,1,2/3,11,11,224869,Serwisowany w ASO,1
+674,Mazda,74898,2004,LPG,3,4/5,3,13,210619,Bezwypadkowy,2
+675,Hyundai,131781,1994,Benzyna,2,4/5,10,6,97171,Bezwypadkowy,1
+676,Chevrolet,133825,1997,LPG,3,4/5,15,2,152925,Garażowany,2
+677,Toyota,114537,2010,Olej napedowy,2,4/5,9,6,64057,Pierwszy własciciel,1
+678,Volvo,187897,2008,Olej napedowy,2,2/3,10,15,109185,Bezwypadkowy,2
+679,Mazda,90638,2013,Benzyna,3,2/3,15,9,122866,Garażowany,2
+680,Renault,105866,2014,Benzyna,1,2/3,6,14,222220,Garażowany,2
+681,Audi,148562,2011,Olej napedowy,3,4/5,14,4,61054,Bezwypadkowy,2
+682,Chevrolet,57827,1990,Benzyna,1,2/3,3,1,260854,Serwisowany w ASO,2
+683,Seat,154293,2004,Olej napedowy,1,4/5,18,7,195748,Bezwypadkowy,2
+684,Chrysler,186103,2010,LPG,1,2/3,10,3,253509,Garażowany,2
+685,Alfa Romeo,136704,1994,LPG,2,4/5,8,16,64016,Garażowany,2
+686,Opel,60532,2003,Olej napedowy,1,4/5,7,6,177275,Pierwszy własciciel,1
+687,Alfa Romeo,167595,2002,Benzyna,1,4/5,8,12,188699,Garażowany,1
+688,Dacia,134947,2008,LPG,3,2/3,4,12,184530,Pierwszy własciciel,1
+689,BMW,126999,2009,Benzyna,1,2/3,9,9,169773,Serwisowany w ASO,1
+690,Toyota,84251,2012,LPG,3,2/3,14,2,73058,Bezwypadkowy,2
+691,Chevrolet,160082,2012,Benzyna,2,2/3,13,4,227457,Bezwypadkowy,1
+692,Chevrolet,164125,2012,Benzyna,1,4/5,6,2,298675,Pierwszy własciciel,1
+693,Opel,91214,2011,LPG,3,2/3,16,15,209773,Garażowany,1
+694,Chevrolet,85596,2002,LPG,3,2/3,12,15,123886,Bezwypadkowy,1
+695,Alfa Romeo,83371,2009,Olej napedowy,3,4/5,17,4,90458,Bezwypadkowy,2
+696,Honda,139173,1994,Benzyna,2,2/3,13,5,149148,Pierwszy własciciel,2
+697,Kia,162014,2009,Benzyna,3,4/5,8,16,232004,Garażowany,1
+698,Opel,115910,2009,Benzyna,2,2/3,16,5,223223,Garażowany,1
+699,Daewoo,93422,1994,LPG,2,2/3,9,10,200697,Bezwypadkowy,1
+700,Daewoo,160941,2013,Olej napedowy,1,4/5,11,6,116766,Garażowany,1
+701,Toyota,164317,2003,LPG,2,4/5,15,15,165540,Pierwszy własciciel,1
+702,Aston Martin,75414,2006,Olej napedowy,3,2/3,1,15,208426,Garażowany,2
+703,Hyundai,119031,1996,Olej napedowy,1,2/3,12,2,280851,Bezwypadkowy,1
+704,Kia,175024,2009,LPG,3,4/5,6,3,125139,Bezwypadkowy,1
+705,Seat,88852,2010,LPG,2,2/3,9,2,73434,Serwisowany w ASO,1
+706,Fiat,156612,2010,LPG,2,2/3,3,15,235621,Garażowany,1
+707,Skoda,150550,1996,Olej napedowy,1,4/5,13,16,251638,Bezwypadkowy,1
+708,Mazda,78980,1994,Benzyna,3,2/3,1,9,239224,Bezwypadkowy,2
+709,Alfa Romeo,124667,2003,Olej napedowy,2,2/3,8,8,94864,Pierwszy własciciel,1
+710,Daewoo,193850,2007,Olej napedowy,2,2/3,13,2,284615,Garażowany,2
+711,Volvo,120573,2010,Olej napedowy,2,2/3,7,3,244401,Serwisowany w ASO,1
+712,Mercedes,109197,2008,LPG,1,2/3,14,14,162524,Bezwypadkowy,1
+713,Mazda,106182,2008,Olej napedowy,2,4/5,5,13,293752,Serwisowany w ASO,1
+714,BMW,109571,2006,Benzyna,1,2/3,7,13,239858,Garażowany,2
+715,Audi,76030,2013,Benzyna,2,2/3,13,11,107231,Garażowany,2
+716,Kia,77346,2008,Benzyna,3,4/5,14,16,191098,Serwisowany w ASO,1
+717,Seat,68911,2000,LPG,3,2/3,15,16,90339,Garażowany,2
+718,Chrysler,113675,2009,Benzyna,1,4/5,15,14,255499,Serwisowany w ASO,1
+719,Dacia,125271,2006,Benzyna,1,2/3,9,8,101274,Pierwszy własciciel,2
+720,Chevrolet,152583,2005,Benzyna,3,4/5,17,5,274963,Pierwszy własciciel,2
+721,Fiat,68806,2000,Olej napedowy,3,2/3,9,7,269991,Serwisowany w ASO,1
+722,Audi,137808,2011,Olej napedowy,3,4/5,18,1,258967,Bezwypadkowy,1
+723,Fiat,65071,2006,LPG,2,4/5,1,12,191545,Pierwszy własciciel,1
+724,BMW,72996,2004,Olej napedowy,1,2/3,4,10,287310,Serwisowany w ASO,1
+725,Kia,186327,2012,LPG,2,2/3,9,15,165719,Serwisowany w ASO,2
+726,Mercedes,60536,2015,Olej napedowy,1,2/3,4,4,259045,Garażowany,2
+727,Toyota,159839,2007,LPG,3,2/3,17,12,266380,Bezwypadkowy,1
+728,Mercedes,103485,2005,LPG,1,4/5,18,1,67646,Pierwszy własciciel,1
+729,Seat,63036,2005,Benzyna,1,2/3,17,6,245172,Bezwypadkowy,2
+730,Skoda,126008,2010,Olej napedowy,1,4/5,18,6,86864,Garażowany,2
+731,Chrysler,62759,1997,Olej napedowy,2,4/5,7,10,71581,Garażowany,1
+732,Mazda,188182,2012,Benzyna,2,4/5,18,8,134618,Serwisowany w ASO,1
+733,Aston Martin,166845,2006,Benzyna,1,2/3,3,1,201630,Serwisowany w ASO,2
+734,Daewoo,193412,2006,Olej napedowy,1,2/3,9,3,285199,Bezwypadkowy,1
+735,Hyundai,193700,2000,Benzyna,1,4/5,2,1,217834,Garażowany,1
+736,Volvo,147968,1997,Olej napedowy,3,2/3,18,11,154744,Garażowany,1
+737,Renault,184709,2003,Benzyna,1,2/3,7,15,59922,Bezwypadkowy,2
+738,Seat,142051,2010,Olej napedowy,2,4/5,18,13,84611,Pierwszy własciciel,1
+739,Ford,161998,2000,LPG,2,4/5,18,11,82446,Pierwszy własciciel,1
+740,Skoda,95992,2006,Benzyna,2,2/3,8,4,114133,Garażowany,2
+741,Daewoo,117218,2010,Olej napedowy,2,4/5,10,3,84454,Serwisowany w ASO,2
+742,Audi,115016,2009,Olej napedowy,1,2/3,15,1,288627,Serwisowany w ASO,2
+743,Volvo,51470,2010,Benzyna,2,4/5,13,2,65128,Pierwszy własciciel,2
+744,Opel,55133,2011,LPG,3,4/5,18,12,155862,Serwisowany w ASO,1
+745,Aston Martin,60307,1997,Benzyna,1,2/3,13,6,96963,Bezwypadkowy,1
+746,Kia,125375,2000,Olej napedowy,3,4/5,4,11,120795,Bezwypadkowy,2
+747,Citroen,90459,2000,LPG,1,2/3,1,6,157288,Garażowany,2
+748,Honda,64587,2013,Benzyna,2,4/5,16,8,255943,Bezwypadkowy,2
+749,Mercedes,175623,2004,Olej napedowy,1,2/3,11,4,55094,Serwisowany w ASO,1
+750,Chevrolet,96234,2003,Olej napedowy,1,4/5,12,10,68203,Serwisowany w ASO,2
+751,Ford,112987,2006,Benzyna,2,2/3,17,8,271925,Garażowany,1
+752,Skoda,139276,2002,LPG,2,2/3,10,5,210274,Garażowany,1
+753,BMW,77037,2013,LPG,2,2/3,11,10,172757,Serwisowany w ASO,1
+754,Audi,190011,2006,Benzyna,3,2/3,15,7,129528,Garażowany,1
+755,Volvo,95275,2007,Olej napedowy,2,2/3,13,15,181638,Garażowany,2
+756,Kia,152148,2002,Olej napedowy,2,4/5,8,12,269452,Pierwszy własciciel,1
+757,Toyota,54784,2003,LPG,3,4/5,17,11,220424,Pierwszy własciciel,1
+758,Toyota,172801,2012,LPG,2,4/5,6,11,104778,Garażowany,1
+759,Alfa Romeo,159943,2007,Benzyna,3,4/5,17,14,272523,Bezwypadkowy,2
+760,Toyota,51183,2015,Benzyna,3,2/3,7,15,153576,Bezwypadkowy,1
+761,Opel,108744,2009,LPG,3,4/5,1,12,273685,Bezwypadkowy,2
+762,Opel,56709,2011,Benzyna,2,2/3,10,12,105595,Serwisowany w ASO,1
+763,Aston Martin,113602,2012,LPG,3,4/5,5,10,172585,Garażowany,2
+764,Chevrolet,149885,2010,Benzyna,3,2/3,11,3,221499,Pierwszy własciciel,1
+765,Opel,151402,2000,Olej napedowy,3,2/3,7,13,99280,Serwisowany w ASO,1
+766,Opel,57550,2006,Benzyna,3,4/5,6,16,54784,Garażowany,2
+767,Honda,72691,2012,LPG,1,2/3,10,13,150012,Bezwypadkowy,1
+768,Audi,53375,2006,Olej napedowy,1,2/3,5,14,92545,Pierwszy własciciel,1
+769,Citroen,132895,1994,Olej napedowy,3,4/5,6,14,239527,Pierwszy własciciel,2
+770,Dacia,181900,2012,Benzyna,3,4/5,3,4,123913,Pierwszy własciciel,1
+771,Alfa Romeo,127242,2014,Benzyna,2,4/5,5,16,83960,Serwisowany w ASO,1
+772,Renault,129552,1990,Olej napedowy,1,4/5,1,9,97134,Garażowany,1
+773,Honda,72011,2003,LPG,2,2/3,17,6,194170,Bezwypadkowy,1
+774,Daewoo,138908,2010,Olej napedowy,1,4/5,8,4,247353,Serwisowany w ASO,1
+775,Renault,131125,2014,Olej napedowy,1,2/3,18,8,86633,Serwisowany w ASO,2
+776,Alfa Romeo,74168,2005,Benzyna,2,2/3,16,4,217745,Serwisowany w ASO,2
+777,Aston Martin,144075,1994,Benzyna,3,2/3,7,2,160563,Serwisowany w ASO,1
+778,Chevrolet,172748,1996,Benzyna,2,4/5,17,9,115091,Garażowany,2
+779,Toyota,78206,2005,Olej napedowy,2,2/3,18,2,69277,Garażowany,1
+780,Honda,99307,2006,Olej napedowy,2,4/5,18,16,289906,Garażowany,2
+781,Mercedes,188197,2011,Benzyna,3,4/5,10,5,281431,Garażowany,2
+782,Honda,74742,2015,LPG,2,4/5,13,2,246188,Serwisowany w ASO,1
+783,Kia,84434,2010,LPG,2,2/3,15,4,115060,Serwisowany w ASO,2
+784,Chrysler,195717,2012,Olej napedowy,1,4/5,11,14,123066,Serwisowany w ASO,1
+785,Aston Martin,95747,2012,Olej napedowy,1,4/5,7,2,232393,Bezwypadkowy,2
+786,Chevrolet,173179,1996,Olej napedowy,1,4/5,12,5,254236,Pierwszy własciciel,2
+787,Peugeot,56164,2004,LPG,1,2/3,6,12,280804,Serwisowany w ASO,1
+788,Hyundai,119656,2008,Benzyna,1,2/3,4,2,162622,Pierwszy własciciel,2
+789,Honda,182522,2006,Olej napedowy,2,4/5,14,8,109207,Pierwszy własciciel,2
+790,Audi,146637,2010,Olej napedowy,2,2/3,11,16,166005,Bezwypadkowy,1
+791,Daewoo,60781,2010,LPG,3,2/3,10,4,91154,Pierwszy własciciel,1
+792,Dacia,69608,2004,LPG,3,2/3,14,10,203417,Garażowany,1
+793,Daewoo,178637,1990,LPG,2,4/5,5,8,88218,Serwisowany w ASO,1
+794,Mercedes,84715,2005,LPG,3,4/5,7,14,173965,Bezwypadkowy,2
+795,BMW,148229,1994,Olej napedowy,2,2/3,9,13,139405,Bezwypadkowy,1
+796,BMW,155305,2013,LPG,3,2/3,7,1,146492,Serwisowany w ASO,2
+797,Skoda,114821,2000,Olej napedowy,3,4/5,3,16,82896,Pierwszy własciciel,1
+798,Kia,113048,1997,LPG,1,4/5,18,4,271685,Garażowany,2
+799,Daewoo,175732,2011,Olej napedowy,1,2/3,10,14,284104,Bezwypadkowy,2
